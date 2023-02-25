@@ -1,0 +1,31 @@
+{
+    "BudgetLimit": {
+        "Amount": "5",
+        "Unit": "USD"
+    },
+    "BudgetName": "My Monthly Budget $5",
+    "BudgetType": "COST",
+    "CostFilters": {
+        "TagKeyValue": [
+            "user:Key$value1",
+            "user:Key$value2"
+        ]
+    },
+    "CostTypes": {
+        "IncludeCredit": true,
+        "IncludeDiscount": true,
+        "IncludeOtherSubscription": true,
+        "IncludeRecurring": true,
+        "IncludeRefund": true,
+        "IncludeSubscription": true,
+        "IncludeSupport": true,
+        "IncludeTax": true,
+        "IncludeUpfront": true,
+        "UseBlended": false
+    },
+    "TimePeriod": {
+        "Start": 1677373927,
+        "End":1708910908
+    },
+    "TimeUnit": "MONTHLY"
+}
