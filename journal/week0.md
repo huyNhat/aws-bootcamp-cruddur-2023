@@ -27,7 +27,7 @@ aws --version
 ![Image of the billing alarm](assets/aws-billing-alrm.png)
 
 ### Recreate Logical Architecture Design
-![Image of the budget](assets/aws-budget.png)
+[Link to my Lucid chart](https://lucid.app/documents/view/028a542d-241b-496f-8f11-0c21b5e68f55)
 
 
 
