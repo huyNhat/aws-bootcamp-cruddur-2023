@@ -28,6 +28,7 @@ aws --version
 
 ### Recreate Logical Architecture Design
 [Link to my Lucid chart](https://lucid.app/documents/view/028a542d-241b-496f-8f11-0c21b5e68f55)
+![Image of the diagram](assets/week-0.png)
 
 
 
