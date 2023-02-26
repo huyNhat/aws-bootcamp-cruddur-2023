@@ -17,3 +17,18 @@ Confirmed it's installed:
 aws --version
 ```
 ### Create a new User and Generate CLI Creds
+- In the `IAM Console > User`, I created an admin user 
+- Granted it the `AdministratorAccess` and `BillingAccess`
+- Also, under for the account to access via AWS CLI, an access key was generated as well:
+  - `Security Credentials` > `Create Access Key` > Download the CSV
+### Create budget
+![Image of the budget](assets/aws-budget.png)
+### Create billing alarm
+![Image of the billing alarm](assets/aws-billing-alrm.png)
+
+### Recreate Logical Architecture Design
+[Link to my Lucid chart](https://lucid.app/documents/view/028a542d-241b-496f-8f11-0c21b5e68f55)
+
+
+
+
